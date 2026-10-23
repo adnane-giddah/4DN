@@ -1,0 +1,33 @@
+Four Idiots, One Brain Cell
+Copyright (c) 2026 Ahmed Adnane Meddah. All rights reserved.
+
+END-USER LICENSE
+
+The game "Four Idiots, One Brain Cell" (the software, its code, maps, art,
+sounds, music, story and text) is the property of Ahmed Adnane Meddah and is
+protected by copyright law. It is licensed, not sold.
+
+You MAY:
+  - download the official game files from this website or its GitHub release
+    page, and
+  - install and play the game for free, for personal, non-commercial use,
+    including with friends on your own local network.
+
+You may NOT, without prior written permission from the author:
+  - copy, upload, share or redistribute the game files (on other websites,
+    stores, file-sharing services or any other channel);
+  - sell, rent, lend or otherwise use the game commercially, including
+    charging for access to it or showing it in paid events;
+  - modify, translate, decompile, disassemble or reverse engineer the game,
+    or extract or reuse any of its code, assets, maps or content;
+  - make derivative works based on the game, or remove or change any
+    copyright notice.
+
+This website's own files (this page and its text) are also all rights
+reserved and may not be reused.
+
+The game is provided "as is", without any warranty. The author is not liable
+for any damage arising from its use. This license ends automatically if you
+break any of its terms; you must then delete all copies.
+
+Contact: ahmed-adnane.meddah@ensia.edu.dz
